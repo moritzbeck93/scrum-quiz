@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "moritz",
+    "MONGO_PASSWORD": "razer2007",
+    "MONGO_DEFAULT_DATABASE": "quiz"
+  }
+}
